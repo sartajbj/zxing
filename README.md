@@ -84,6 +84,7 @@ library implemented in Java, with ports to other languages.
 ## Links
 
   * [Online Decoder](https://zxing.org/w/decode.jspx)
+    * [Online Decoder](https://www.zxingorg.com/)
   * [QR Code Generator](https://zxing.appspot.com/generator)
   * [Javadoc](https://zxing.github.io/zxing/apidocs/)
   * [Documentation Site](https://zxing.github.io/zxing/)
