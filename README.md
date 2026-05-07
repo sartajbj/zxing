@@ -11,7 +11,7 @@ There is otherwise no active development or roadmap for this project. It is "DIY
 ## Get Started Developing
 
 To get started, please visit: https://github.com/zxing/zxing/wiki/Getting-Started-Developing
-
+Try New updated Zxingorg decoder https://www.zxingorg.com/
 ZXing ("zebra crossing") is an open-source, multi-format 1D/2D barcode image processing
 library implemented in Java, with ports to other languages.
 
